@@ -1,0 +1,3 @@
+class Aplicacao {
+  String? nome;
+}
